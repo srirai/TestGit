@@ -6,6 +6,7 @@ public class TestFile {
     }
 
     public void newMethod(){
+        //Added from the master branch
         System.out.println("New commit in Master");
     }
 }
